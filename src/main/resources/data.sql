@@ -1,0 +1,7 @@
+INSERT INTO PRODUCT (PRO_ID, PRO_TITLE,PRO_PRICE,PRO_RATING,PRO_SHORTDESCRIPTION,PRO_DESCRIPTION) VALUES(0,'First product',59,4,'This is a short description of the First Product','For what you pay this is a steal.');
+ INSERT INTO PRODUCT (PRO_ID, PRO_TITLE,PRO_PRICE,PRO_RATING,PRO_SHORTDESCRIPTION,PRO_DESCRIPTION) VALUES(1,'Second product',64,3,'This is a short description of the Second Product','For what you pay this is a steal.');
+ INSERT INTO PRODUCT (PRO_ID, PRO_TITLE,PRO_PRICE,PRO_RATING,PRO_SHORTDESCRIPTION,PRO_DESCRIPTION) VALUES(2,'Third product',74,4,'This is a short description of the Third Product','For what you pay this is a steal.');
+ INSERT INTO PRODUCT (PRO_ID, PRO_TITLE,PRO_PRICE,PRO_RATING,PRO_SHORTDESCRIPTION,PRO_DESCRIPTION) VALUES(3,'Fourth product',84,3,'This is a short description of the Fourth Product','For what you pay this is a steal.');
+ INSERT INTO PRODUCT (PRO_ID, PRO_TITLE,PRO_PRICE,PRO_RATING,PRO_SHORTDESCRIPTION,PRO_DESCRIPTION) VALUES(4,'Fifth product',94,5,'This is a short description of the Fifth Product','For what you pay this is a steal.');
+ INSERT INTO PRODUCT (PRO_ID, PRO_TITLE,PRO_PRICE,PRO_RATING,PRO_SHORTDESCRIPTION,PRO_DESCRIPTION) VALUES(5,'Sixth product',54,4,'This is a short description of the Sixth Product','For what you pay this is a steal.');
+  
